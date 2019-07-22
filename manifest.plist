@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://r.ymsl.com.cn/nb301/helperDoc/PanelViewShare.ipa</string>
+					<string>http://10.191.19.103:8080/ss-family/resources/ios/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://r.ymsl.com.cn/nb301/helperDoc/MARINELogo.png</string>
+					<string>http://10.191.19.103:8080/ss-family/resources/ios/ticket57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://r.ymsl.com.cn/nb301/helperDoc/MARINELogo.png</string>
+					<string>http://10.191.19.103:8080/ss-family/resources/ios/ticket512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ymslx.id2.ionic3.dashboard</string>
+				<string>com.ymslx.ins2.testflight</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Demo02-03</string>
+				<string>测试</string>
 			</dict>
 		</dict>
 	</array>
