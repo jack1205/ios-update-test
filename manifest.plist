@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ymslx.ins2.testflight</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试</string>
+				<string>App-Testflight</string>
 			</dict>
 		</dict>
 	</array>
