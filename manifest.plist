@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.191.19.103:8080/ss-family/resources/ios/test.ipa</string>
+					<string>https://r.ymsl.com.cn/nb301/helperDoc/PanelViewShare.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.191.19.103:8080/ss-family/resources/ios/ticket57.png</string>
+					<string>https://r.ymsl.com.cn/nb301/helperDoc/MARINELogo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.191.19.103:8080/ss-family/resources/ios/ticket512.png</string>
+					<string>https://r.ymsl.com.cn/nb301/helperDoc/MARINELogo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ymslx.ins2.testflight</string>
+				<string>com.ymslx.id2.ionic3.dashboard</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>App-Testflight</string>
+				<string>Demo02-03</string>
 			</dict>
 		</dict>
 	</array>
