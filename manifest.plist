@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.191.4.156/appInfo/ios/mobile-office.ipa</string>
+					<string>http://10.191.4.156/appInfo/ios/mobileo-office.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ymslx.ins.moffice</string>
+				<string>com.ymslx.ins2.testflight</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>mobile-office</string>
+				<string>测试</string>
 			</dict>
 		</dict>
 	</array>
