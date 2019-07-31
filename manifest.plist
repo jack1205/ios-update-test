@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.191.19.103:8080/ss-family/resources/ios/test.ipa</string>
+					<string>http://10.191.4.156/appInfo/ios/test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.191.19.103:8080/ss-family/resources/ios/ticket57.png</string>
+					<string>http://10.191.4.156/appInfo/ios/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.191.19.103:8080/ss-family/resources/ios/ticket512.png</string>
+					<string>http://10.191.4.156/appInfo/ios/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ymslx.ins.moffice</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>App-Testflight</string>
+				<string>mobile-office</string>
 			</dict>
 		</dict>
 	</array>
